@@ -139,7 +139,6 @@ public class Report3 {
 							return Arrays.stream(tags).anyMatch(tag -> tag.startsWith("NN"));
 						}
 
-						// Xuất báo cáo
 					}.visit(StaticJavaParser.parse(file), null);
 				} catch (Exception e) {
 					throw new RuntimeException(e);
@@ -154,6 +153,7 @@ public class Report3 {
 
 	public static void main(String[] args) {
 		File projectDir = new File("D:\\BaiTap\\Kientruc\\Lab2\\Lab2");
+		// Xuất báo cáo
 		String outputFilePath = "D:\\BaiTap\\Kientruc\\Lab2\\Lab2\\output.txt";
 		listMethodCalls(projectDir, outputFilePath);
 	}
