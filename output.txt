@@ -1,0 +1,52 @@
+/src/main/java/com/companyname/iuh/Acb.java
+===========================================
+Invalid field name: ehee
+Invalid field name: HehHeh
+Invalid method name: Calc
+Invalid method name: cyxy
+Invalid class name: Acb
+/src/main/java/com/companyname/iuh/ClassExample.java
+====================================================
+/src/main/java/com/companyname/iuh/VerbCheck.java
+=================================================
+Invalid method name: main
+Invalid Comment: Class 'VerbCheck' has no comment.
+/src/main/java/vn/edu/iuh/fit/demo/report1.java
+===============================================
+Invalid package name: vn.edu.iuh.fit.demo
+Invalid method name: main
+Invalid class name: report1
+Invalid Comment: Class 'report1' has no comment.
+/src/main/java/vn/edu/iuh/fit/demo/report2.java
+===============================================
+Invalid package name: vn.edu.iuh.fit.demo
+Invalid method name: visit
+Invalid method name: listClasses
+Invalid method name: main
+Invalid class name: report2
+Invalid Comment: Class 'report2' has no comment.
+/src/main/java/vn/edu/iuh/fit/demo/Report3.java
+===============================================
+Invalid package name: vn.edu.iuh.fit.demo
+Invalid method name: visit
+Invalid method name: visit
+Invalid method name: visit
+Invalid method name: visit
+Invalid method name: listMethodCalls
+Invalid method name: main
+Invalid class name: Report3
+Invalid Comment: Class 'Report3' has no comment.
+/src/main/java/vn/edu/iuh/fit/tool/DirExplorer.java
+===================================================
+Invalid package name: vn.edu.iuh.fit.tool
+Invalid method name: handle
+Invalid Comment: Class 'FileHandler' does not contain required information (author, created-date).
+Invalid method name: interested
+Invalid Comment: Class 'Filter' does not contain required information (author, created-date).
+Invalid Comment: Class 'DirExplorer' has no comment.
+/src/main/java/vn/edu/iuh/fit/tool/NodeIterator.java
+====================================================
+Invalid package name: vn.edu.iuh.fit.tool
+Invalid method name: handle
+Invalid Comment: Class 'NodeHandler' has no comment.
+Invalid Comment: Class 'NodeIterator' has no comment.
